@@ -1,0 +1,19 @@
+# Python virtual environments
+.venv/
+venv/
+
+# Python cache and build artifacts
+__pycache__/
+*.py[cod]
+
+# PyCharm project-local settings
+.idea/
+
+# Robot Framework generated output
+output.xml
+log.html
+report.html
+selenium-screenshot-*.png
+
+# Local diagnostics and scratch data
+work/
